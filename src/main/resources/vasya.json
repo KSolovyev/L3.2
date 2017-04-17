@@ -1,0 +1,5 @@
+{
+  "type":"com.example.data.json.SerializationObject",
+  "name":"Vasya",
+  "age":3
+}
